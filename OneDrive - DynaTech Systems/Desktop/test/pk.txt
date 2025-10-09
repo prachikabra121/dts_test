@@ -1,0 +1,14 @@
+
+API Details
+
+https://sb-envu-d365-sandbox.veevavault.com/api/v21.3/auth
+ 
+Body
+username:integration.usertest@sb-envu.com
+
+password:D365@2025
+ 
+ Databricks and azure:
+ 
+ maulik.lakhani.ext@envu.com
+Dynatech#1998
